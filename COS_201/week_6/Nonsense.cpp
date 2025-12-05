@@ -23,8 +23,7 @@ int main(){
     cout << a << " "<< b;
 
 
-    double opposite = 0
-    double adjacent = 0
-    cin << 
+    double opposite = 0;
+    double adjacent = 0; 
 
 }

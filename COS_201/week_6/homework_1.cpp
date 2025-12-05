@@ -26,7 +26,7 @@ int main(){
 			cout<<"Ox";
 			break;
 		case 6:
-			cout<<"Tigwer";
+			cout<<"Tiger";
 			break;
         case 7:
 		    cout<<"Rabbit";

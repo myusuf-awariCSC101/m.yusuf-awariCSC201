@@ -122,7 +122,7 @@ int main(){
 
    
     srand( time(0)); /*this is where  the range starts from*/
-    int r = rand() % 101; /*this is the limit  0 to 101*/
+    int r = rand() % 101; /*this is the limit  0 to 100*/
     cout << "\nRandom Number: " << r;
     
     if (r == 7 || r == 77){
